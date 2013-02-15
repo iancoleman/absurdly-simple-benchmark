@@ -10,8 +10,7 @@ In psuedocode:
 
     x = 1.00001
     start timing
-    for one hundred thousand times
-        x = x * 1.00001
+    do (x = x * 1.00001) one hundred thousand times
     end timing
     print the value of x
     print how long it took
