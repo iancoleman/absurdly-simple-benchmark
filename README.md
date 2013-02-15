@@ -8,12 +8,13 @@ The Test
 
 In psuedocode:
 
-x = 1.00001
-start timing
-for one hundred thousand times
-    x = x * 1.00001
-end timing
-how long did it take?
+    x = 1.00001
+    start timing
+    for one hundred thousand times
+        x = x * 1.00001
+    end timing
+    print the value of x
+    print how long it took
 
 Languages
 ---
