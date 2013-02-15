@@ -49,12 +49,12 @@ Results
 Really flakey numbers here (which I will improve later) I found roughly
 
 ### Timing
-| Language  | Time to run |
+| Language  | Time to run (ms) |
 | ----------| ------------|
-| c         |       0.7ms |
-| go | 1.5ms |
-| python | 50ms |
-| ruby | 120ms |
+| c         |       0.7 |
+| go | 1.5 |
+| python | 50 |
+| ruby | 120 |
 
 ### Output
 | Language | Output |
