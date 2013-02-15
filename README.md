@@ -39,8 +39,11 @@ Running The Tests
 ---
 
 `g++ timing.c -o timing && ./timing`
+
 `go run timing.go`
+
 `python timing.py`
+
 `ruby timing.rb`
 
 Results
